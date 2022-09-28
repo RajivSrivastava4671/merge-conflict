@@ -1,0 +1,28 @@
+pseudo code
+{
+Initial Function()
+{
+<<<<<<< HEAD
+  //Sample Code
+This code is changed by developer1
+
+=======
+This code changed by developer2
+>>>>>>> d758e2e (commit)
+}
+
+Initial Security()
+{
+<<<<<<< HEAD
+ //Sample Code
+This code is changed by developer1
+=======
+This security code changed by developer2
+>>>>>>> d758e2e (commit)
+}
+
+
+
+
+
+}

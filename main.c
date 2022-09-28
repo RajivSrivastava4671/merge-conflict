@@ -2,15 +2,17 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+
 This code is changed by developer1
+This code changed by developer2
 
 }
 
 Initial Security()
 {
- //Sample Code
-This code is changed by developer1
+
+This security code changed by developer1
+This security code changed by developer2
 }
 
 
